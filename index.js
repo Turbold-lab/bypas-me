@@ -6,7 +6,7 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-const token = "MTI1NTg3ODU3MzcxMDExODkyMg.GdghLX.iJPoSFRsA9uN_hcQVItOALotHBAHMRdxP3Xaww";
+const token = "asshole";
 const clientId = "1255878573710118922";
 const botstatus = "Online";
 const madeby = "Turbold TV";
